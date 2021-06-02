@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Welcome to the quiz challenge!</h1>
+    
+    <div class="scores"><a href="highscores.html"></a></div>
+    <div class="timer">Time: <span id="time">0</span></div>
+    <div class="score">Score: <span id="score">0</span></div>
+    
+    <div class="setup">
+        <div id="start-screen" class="start">
+    </div>
+
+    <div id="questions" class="hide">
+        <h2 id="question-title">Placeholder</h2>
+        <button class="choices">Choice</button><br>
+        <button class="choices">Choice</button><br>
+        <button class="choices">Choice</button><br>
+        <button class="choices">Choice</button><br>
+    </div>
+
+    <div id="end-screen" class="hide">
+    </div>
+
+    <div id="feedback" class="feedback hide"></div>
+
+    <button id="start-button">Start</button>
+
+    <div id="current"></div>
+    <script src="./questions.js"></script>
+    <script src="./script.js"></script> 
+    </body>
+</html>
