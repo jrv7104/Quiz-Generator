@@ -5,4 +5,5 @@ This is a quiz generator that's simple in design, but was complex in getting the
 One of the things I hoped to complete was to have no console.log errors, but one was left unresolved before deadline. After the alerts take place when the game is over, clicking start will create a console.log error and bring up alerts and prompts again. This is why I mention refreshing the browser to play again. I know with time this could be fixed. A lot of code was commented out as far as both structure and to prevent some code from running. I also used a separate JavaScript file for the questions only, although I commented out the questions in the script.js file at the very bottom. I'll also add links to the site here, and I'll try to add a screenshot link here.
 
 Screenshot link (if it works): https://github.com/jrv7104/Quiz-Generator/blob/main/Quiz%20Generator%20Screenshot.jpeg
+
 Website link: https://jrv7104.github.io/Quiz-Generator/
