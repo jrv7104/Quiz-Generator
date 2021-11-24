@@ -1,4 +1,6 @@
-This was definitely a tricky one to get fully working as I managed to get one or two steps working every time I worked on it, but was only able to feel like I mostly satisfied all objects with only a couple of hours to spend. I also wanted to make sure I have the assignment turned in in case any issues uploading the code came up.
+# Quiz Generator
+
+This was definitely a tricky one to get fully working as I managed to get one or two steps working every time I worked on it, but was only able to feel like I mostly satisfied all objects with only a couple of hours to spare. I also wanted to make sure I have the assignment turned in in case any issues uploading the code came up.
 
 This is a quiz generator that's simple in design, but was complex in getting the quiz fully operational. I came up with about 10 questions of various topics and kept track of score and time throughout the process. The game ended when no more questions were available or if time was up. The score increased by one for a right answer, but wrong answers take off 10 seconds off the clock in addition to not increasing the score.
 
